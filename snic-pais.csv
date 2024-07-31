@@ -1,0 +1,897 @@
+anio;codigo_delito_snic_id;codigo_delito_snic_nombre;cantidad_hechos;cantidad_victimas;cantidad_victimas_masc;cantidad_victimas_fem;cantidad_victimas_sd;tasa_hechos;tasa_victimas;tasa_victimas_masc;tasa_victimas_fem
+2000;1;Homicidios dolosos;2653;2805;2167;369;269;7,2270207;7,6410828;12,048265;1,9707898
+2000;2;Homicidios dolosos en grado de tentativa;884;942;641;135;177;2,4080989;2,5660963;3,5638845;,72102064
+2000;3;Muertes en accidentes viales;3686;4297;2932;927;438;10,041009;11,705431;16,301575;4,9510083
+2000;4;Homicidios culposos por otros hechos;1058;1119;663;262;194;2,882091;3,0482609;3,686202;1,3993142
+2000;5;Lesiones dolosas;107864;112475;55115;39485;17875;293,83163;306,39243;306,43292;210,88519
+2000;6;Lesiones culposas en Accidentes Viales;54429;61882;36408;17283;8191;148,2697;168,57237;202,42419;92,306664
+2000;7;Lesiones culposas por otros hechos;11024;11410;4286;2557;4567;30,030409;31,081909;23,829657;13,656666
+2000;8;Otros delitos contra las personas;21232;22033;10689;5274;6070;57,837955;60,019955;59,429585;28,167873
+2000;9;Delitos contra el honor;372;383;98;231;54;1,0133629;1,0433279;,54486847;1,2337464
+2000;10;Abusos sexuales con acceso carnal (violaciones);3023;3107;325;2284;498;8,2349348;8,4637594;1,8069618;12,198602
+2000;11;Otros delitos contra la integridad sexual;5911;6173;784;3959;1430;16,102118;16,81583;4,3589478;21,144598
+2000;12;Delitos contra el estado civil;178;;;;;,48488867;;;
+2000;13;Amenazas;92826;;;;;252,86671;;;
+2000;14;Otros delitos contra la libertad;15628;15628;0;0;15628;42,572136;42,572136;0;0
+2000;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);320649;;;;;873,47791;;;
+2000;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);21223;;;;;57,813438;;;
+2000;17;Robos agravados por el resultado de lesiones y/o muertes ;14819;;;;;40,368343;;;
+2000;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;2541;;;;;6,9219222;;;
+2000;19;Hurtos;293888;;;;;800,57843;;;
+2000;20;Tentativas de hurto;11432;;;;;31,141838;;;
+2000;21;Otros delitos contra la propiedad;89175;;;;;242,92105;;;
+2000;22;Delitos contra la seguridad pública;5147;;;;;14,02091;;;
+2000;23;Delitos contra el orden público;1558;;;;;4,2441378;;;
+2000;24;Delitos contra la seguridad de la nación;34;;;;;,092619188;;;
+2000;25;Delitos contra los poderes públicos y el orden constitucional;85;;;;;,23154797;;;
+2000;26;Delitos contra la administración pública;10110;;;;;27,540586;;;
+2000;27;Delitos contra la fe pública;5868;;;;;15,984982;;;
+2000;28;Ley 23,737 (estupefacientes);15994;;;;;43,569153;;;
+2000;29;Otros delitos previstos en leyes especiales;16195;;;;;44,116695;;;
+2000;30;Contravenciones;130384;;;;;355,17822;;;
+2000;31;Suicidios (consumados);3129;3129;0;0;3129;9,3990049;9,3990049;0;0
+2001;1;Homicidios dolosos;3053;3143;2529;399;215;8,2166653;8,4588852;13,89465;2,1049914
+2001;2;Homicidios dolosos en grado de tentativa;888;985;710;154;121;2,3899109;2,6509712;3,9008312;,81245285
+2001;3;Muertes en accidentes viales;3797;4339;2980;963;396;10,219023;11,67773;16,372503;5,0804682
+2001;4;Homicidios culposos por otros hechos;625;678;437;158;83;1,6820883;1,8247293;2,4009342;,83355552
+2001;5;Lesiones dolosas;117745;124273;61686;44408;18179;316,89197;334,46106;338,9108;234,28186
+2001;6;Lesiones culposas en Accidentes Viales;58530;68583;40014;18362;10207;157,5242;184,58026;219,84206;96,871811
+2001;7;Lesiones culposas por otros hechos;8907;9287;3837;2142;3308;23,971777;24,994486;21,080971;11,300481
+2001;8;Otros delitos contra las personas;17979;18965;10374;5437;3154;48,387623;51,041286;56,99609;28,683805
+2001;9;Delitos contra el honor;379;408;118;250;40;1,0200183;1,0980673;,64830714;1,3189169
+2001;10;Abusos sexuales con acceso carnal (violaciones);3289;3377;281;2449;647;8,8518209;9,0886593;1,5438501;12,920111
+2001;11;Otros delitos contra la integridad sexual;5803;6002;674;4217;1111;15,617853;16,153431;3,7030425;22,247492
+2001;12;Delitos contra el estado civil;99;;;;;,26644278;;;
+2001;13;Amenazas;108340;;;;;291,5799;;;
+2001;14;Otros delitos contra la libertad;13729;13729;0;0;13729;36,949425;36,949425;0;0
+2001;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);345725;;;;;930,46393;;;
+2001;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);19898;;;;;53,552307;;;
+2001;17;Robos agravados por el resultado de lesiones y/o muertes ;16029;;;;;43,139507;;;
+2001;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;2082;;;;;5,6033726;;;
+2001;19;Hurtos;304122;;;;;818,49609;;;
+2001;20;Tentativas de hurto;10594;;;;;28,51207;;;
+2001;21;Otros delitos contra la propiedad;84334;;;;;226,97157;;;
+2001;22;Delitos contra la seguridad pública;5736;;;;;15,437533;;;
+2001;23;Delitos contra el orden público;4734;;;;;12,740809;;;
+2001;24;Delitos contra la seguridad de la nación;34;;;;;,091505602;;;
+2001;25;Delitos contra los poderes públicos y el orden constitucional;110;;;;;,29604754;;;
+2001;26;Delitos contra la administración pública;11662;;;;;31,386421;;;
+2001;27;Delitos contra la fe pública;5387;;;;;14,498256;;;
+2001;28;Ley 23,737 (estupefacientes);15364;;;;;41,349766;;;
+2001;29;Otros delitos previstos en leyes especiales;17956;;;;;48,325722;;;
+2001;30;Contravenciones;202813;;;;;545,83899;;;
+2001;31;Suicidios (consumados);3167;3167;0;0;3167;9,3887501;9,3887501;0;0
+2002;1;Homicidios dolosos;3459;3571;2903;402;266;9,2133732;9,5116959;15,788522;2,0985076
+2002;2;Homicidios dolosos en grado de tentativa;862;922;713;139;70;2,2960184;2,4558342;3,8777871;,7256034
+2002;3;Muertes en accidentes viales;3178;3550;2461;698;391;8,4649029;9,45576;13,384621;3,6436775
+2002;4;Homicidios culposos por otros hechos;589;621;439;122;60;1,5688571;1,6540922;2,3875856;,63686049
+2002;5;Lesiones dolosas;125267;130786;63066;46301;21419;333,66049;348,36087;342,99652;241,69901
+2002;6;Lesiones culposas en Accidentes Viales;53527;61253;33794;16928;10531;142,57422;163,15315;183,79515;88,367004
+2002;7;Lesiones culposas por otros hechos;7181;7524;3421;1738;2365;19,127272;20,040884;18,605764;9,0726519
+2002;8;Otros delitos contra las personas;16947;17741;9915;5009;2817;45,139935;47,254829;53,924629;26,147821
+2002;9;Delitos contra el honor;295;308;80;199;29;,78576034;,82038707;,43509534;1,0388135
+2002;10;Abusos sexuales con acceso carnal (violaciones);3037;3098;250;2161;687;8,0893364;8,2518158;1,3596729;11,280784
+2002;11;Otros delitos contra la integridad sexual;5773;5997;704;4087;1206;15,37693;15,973576;3,8288388;21,334827
+2002;12;Delitos contra el estado civil;219;;;;;,58332717;;;
+2002;13;Amenazas;114247;;;;;304,30768;;;
+2002;14;Otros delitos contra la libertad;13921;13921;0;0;13921;37,079899;37,079899;0;0
+2002;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);423478;;;;;1127,9736;;;
+2002;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);25500;;;;;67,921661;;;
+2002;17;Robos agravados por el resultado de lesiones y/o muertes ;17906;;;;;47,694321;;;
+2002;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;3015;;;;;8,0307369;;;
+2002;19;Hurtos;372905;;;;;993,2677;;;
+2002;20;Tentativas de hurto;13813;;;;;36,792229;;;
+2002;21;Otros delitos contra la propiedad;80247;;;;;213,74547;;;
+2002;22;Delitos contra la seguridad pública;5199;;;;;13,848027;;;
+2002;23;Delitos contra el orden público;1241;;;;;3,3055208;;;
+2002;24;Delitos contra la seguridad de la nación;59;;;;;,15715207;;;
+2002;25;Delitos contra los poderes públicos y el orden constitucional;159;;;;;,42351151;;;
+2002;26;Delitos contra la administración pública;12330;;;;;32,842121;;;
+2002;27;Delitos contra la fe pública;5495;;;;;14,636452;;;
+2002;28;Ley 23,737 (estupefacientes);15508;;;;;41,307022;;;
+2002;29;Otros delitos previstos en leyes especiales;23139;;;;;61,632912;;;
+2002;30;Contravenciones;118238;;;;;314,93808;;;
+2002;31;Suicidios (consumados);2966;2966;0;0;2966;8,6973391;8,6973391;0;0
+2003;1;Homicidios dolosos;2883;2967;2354;349;264;7,5999737;7,8214087;12,673499;1,802673
+2003;2;Homicidios dolosos en grado de tentativa;928;974;770;115;89;2,446332;2,5675943;4,1455369;,59400398
+2003;3;Muertes en accidentes viales;3125;3531;2432;771;328;8,2379179;9,3081884;13,093436;3,9824095
+2003;4;Homicidios culposos por otros hechos;665;688;419;217;52;1,7530289;1,81366;2,2558181;1,1208597
+2003;5;Lesiones dolosas;131360;137578;66664;48817;22097;346,28253;362,67401;358,90659;252,15211
+2003;6;Lesiones culposas en Accidentes Viales;56678;64881;36250;18194;10437;149,41078;171,03499;195,16327;93,976601
+2003;7;Lesiones culposas por otros hechos;7356;7664;3251;1868;2545;19,391399;20,203329;17,502781;9,6486912
+2003;8;Otros delitos contra las personas;16509;17239;9585;4830;2824;43,519932;45,444309;51,603859;24,948168
+2003;9;Delitos contra el honor;328;332;71;211;50;,86465186;,8751964;,38225082;1,0898682
+2003;10;Abusos sexuales con acceso carnal (violaciones);3451;3521;297;2407;817;9,0972977;9,281827;1,5989928;12,432762
+2003;11;Otros delitos contra la integridad sexual;6484;6698;752;4711;1235;17,092691;17,656824;4,0486283;24,333504
+2003;12;Delitos contra el estado civil;196;;;;;,51668221;;;
+2003;13;Amenazas;117234;;;;;309,04449;;;
+2003;14;Otros delitos contra la libertad;13267;13267;0;0;13267;34,973587;34,973587;0;0
+2003;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);393547;;;;;1037,4425;;;
+2003;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);21547;;;;;56,800774;;;
+2003;17;Robos agravados por el resultado de lesiones y/o muertes ;16552;;;;;43,633286;;;
+2003;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;2216;;;;;5,8416724;;;
+2003;19;Hurtos;334916;;;;;882,88336;;;
+2003;20;Tentativas de hurto;11070;;;;;29,181999;;;
+2003;21;Otros delitos contra la propiedad;76862;;;;;202,61852;;;
+2003;22;Delitos contra la seguridad pública;4934;;;;;13,006683;;;
+2003;23;Delitos contra el orden público;987;;;;;2,6018639;;;
+2003;24;Delitos contra la seguridad de la nación;56;;;;;,14762349;;;
+2003;25;Delitos contra los poderes públicos y el orden constitucional;135;;;;;,35587806;;;
+2003;26;Delitos contra la administración pública;13127;;;;;34,604527;;;
+2003;27;Delitos contra la fe pública;5000;;;;;13,180669;;;
+2003;28;Ley 23,737 (estupefacientes);15378;;;;;40,538464;;;
+2003;29;Otros delitos previstos en leyes especiales;22004;;;;;58,005486;;;
+2003;30;Contravenciones;130115;;;;;343,00055;;;
+2003;31;Suicidios (consumados);2860;2860;0;0;2860;8,2953911;8,2953911;0;0
+2004;1;Homicidios dolosos;2264;2341;1780;350;211;5,9066768;6,1075664;9,4864931;1,7888199
+2004;2;Homicidios dolosos en grado de tentativa;876;931;644;132;155;2,2854455;2,4289382;3,4321921;,67464066
+2004;3;Muertes en accidentes viales;3506;3982;2667;874;441;9,1470003;10,388863;14,213752;4,466939
+2004;4;Homicidios culposos por otros hechos;716;785;498;207;80;1,8680125;2,0480306;2,6540864;1,0579592
+2004;5;Lesiones dolosas;142257;148802;71774;54355;22673;371,14227;388,2179;382,51886;277,80374
+2004;6;Lesiones culposas en Accidentes Viales;64717;74394;43193;20915;10286;168,84381;194,09068;230,19669;106,89477
+2004;7;Lesiones culposas por otros hechos;8620;8931;3665;2440;2826;22,489201;23,300587;19,532583;12,47063
+2004;8;Otros delitos contra las personas;16708;17619;9002;5320;3297;43,590439;45,967197;47,976074;27,190062
+2004;9;Delitos contra el honor;381;392;84;272;36;,99401224;1,0227108;,44767722;1,3901685
+2004;10;Abusos sexuales con acceso carnal (violaciones);3452;3529;334;2515;680;9,0061159;9,2070055;1,7800499;12,853949
+2004;11;Otros delitos contra la integridad sexual;6921;7152;800;5001;1351;18,056585;18,659254;4,2635927;25,559681
+2004;12;Delitos contra el estado civil;156;;;;;,40699714;;;
+2004;13;Amenazas;130448;;;;;340,3331;;;
+2004;14;Otros delitos contra la libertad;13238;13238;0;0;13238;34,537361;34,537361;0;0
+2004;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);352554;;;;;919,79791;;;
+2004;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);21468;;;;;56,009068;;;
+2004;17;Robos agravados por el resultado de lesiones y/o muertes ;11157;;;;;29,108124;;;
+2004;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1737;;;;;4,5317569;;;
+2004;19;Hurtos;316886;;;;;826,74164;;;
+2004;20;Tentativas de hurto;11332;;;;;29,56469;;;
+2004;21;Otros delitos contra la propiedad;77755;;;;;202,85938;;;
+2004;22;Delitos contra la seguridad pública;4833;;;;;12,609085;;;
+2004;23;Delitos contra el orden público;1350;;;;;3,5220907;;;
+2004;24;Delitos contra la seguridad de la nación;61;;;;;,15914632;;;
+2004;25;Delitos contra los poderes públicos y el orden constitucional;140;;;;;,36525384;;;
+2004;26;Delitos contra la administración pública;13531;;;;;35,301785;;;
+2004;27;Delitos contra la fe pública;4989;;;;;13,016082;;;
+2004;28;Ley 23,737 (estupefacientes);18341;;;;;47,850864;;;
+2004;29;Otros delitos previstos en leyes especiales;22522;;;;;58,758907;;;
+2004;30;Contravenciones;128199;;;;;334,46555;;;
+2004;31;Suicidios (consumados);2843;2843;0;0;2843;8,1564884;8,1564884;0;0
+2005;1;Homicidios dolosos;2120;2203;1689;322;192;5,4739642;5,6882753;8,9106827;1,6284015
+2005;2;Homicidios dolosos en grado de tentativa;916;978;694;151;133;2,3651657;2,5252533;3,6613464;,76362926
+2005;3;Muertes en accidentes viales;3443;3983;2771;919;293;8,890028;10,28434;14,619007;4,6475186
+2005;4;Homicidios culposos por otros hechos;895;941;593;198;150;2,3109424;2,4297173;3,128499;1,0013152
+2005;5;Lesiones dolosas;142135;149315;71766;53782;23767;367,00092;385,5401;378,61697;271,98352
+2005;6;Lesiones culposas en Accidentes Viales;73066;84614;47303;25673;11638;188,66071;218,47832;249,55716;129,83215
+2005;7;Lesiones culposas por otros hechos;9532;9937;4231;2704;3002;24,612183;25,657917;22,32155;13,674527
+2005;8;Otros delitos contra las personas;15832;16625;8411;5083;3131;40,879154;42,926723;44,374043;25,705481
+2005;9;Delitos contra el honor;316;329;69;227;33;,81593055;,84949732;,36402434;1,1479725
+2005;10;Abusos sexuales con acceso carnal (violaciones);3156;3223;272;2409;542;8,1489773;8,3219748;1,4349946;12,182669
+2005;11;Otros delitos contra la integridad sexual;6852;7087;752;4896;1439;17,692266;18,299049;3,9673378;24,759794
+2005;12;Delitos contra el estado civil;85;;;;;,21947499;;;
+2005;13;Amenazas;131288;;;;;338,99332;;;
+2005;14;Otros delitos contra la libertad;13210;13213;3;0;13210;34,108994;34,116741;,015827145;0
+2005;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);322267;;;;;832,1123;;;
+2005;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);20767;;;;;53,621613;;;
+2005;17;Robos agravados por el resultado de lesiones y/o muertes ;10823;;;;;27,945621;;;
+2005;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1475;;;;;3,8085365;;;
+2005;19;Hurtos;292455;;;;;755,13599;;;
+2005;20;Tentativas de hurto;11214;;;;;28,955206;;;
+2005;21;Otros delitos contra la propiedad;80249;;;;;207,20763;;;
+2005;22;Delitos contra la seguridad pública;5381;;;;;13,894057;;;
+2005;23;Delitos contra el orden público;1371;;;;;3,5400023;;;
+2005;24;Delitos contra la seguridad de la nación;37;;;;;,095536172;;;
+2005;25;Delitos contra los poderes públicos y el orden constitucional;120;;;;;,30984703;;;
+2005;26;Delitos contra la administración pública;13891;;;;;35,867378;;;
+2005;27;Delitos contra la fe pública;5428;;;;;14,015414;;;
+2005;28;Ley 23,737 (estupefacientes);22378;;;;;57,781307;;;
+2005;29;Otros delitos previstos en leyes especiales;25332;;;;;65,408707;;;
+2005;30;Contravenciones;126279;;;;;326,05978;;;
+2005;31;Suicidios (consumados);2709;2712;3;0;2709;7,6876025;7,696116;,017472014;0
+2006;1;Homicidios dolosos;2057;2111;1602;315;194;5,256537;5,3945308;8,366416;1,5762432
+2006;2;Homicidios dolosos en grado de tentativa;836;894;631;160;103;2,1363466;2,2845621;3,2953863;,80063146
+2006;3;Muertes en accidentes viales;3695;4326;2982;1011;333;9,4423456;11,054827;15,573442;5,05899
+2006;4;Homicidios culposos por otros hechos;743;797;467;184;146;1,8986908;2,0366845;2,4388993;,92072618
+2006;5;Lesiones dolosas;143482;150367;70691;55364;24312;366,65942;384,25363;369,1825;277,03851
+2006;6;Lesiones culposas en Accidentes Viales;83888;96221;53947;28597;13677;214,37062;245,88686;281,73724;143,09785
+2006;7;Lesiones culposas por otros hechos;11483;11814;5151;3120;3543;29,344101;30,189951;26,901005;15,612313
+2006;8;Otros delitos contra las personas;17544;18381;8351;7018;3012;44,832615;46,971516;43,612949;35,117699
+2006;9;Delitos contra el honor;358;373;79;247;47;,91484702;,95317858;,41257608;1,2359748
+2006;10;Abusos sexuales con acceso carnal (violaciones);3272;3386;262;2411;713;8,3613949;8,6527147;1,3682903;12,064515
+2006;11;Otros delitos contra la integridad sexual;7353;7683;826;5336;1521;18,79014;19,633434;4,3137703;26,701059
+2006;12;Delitos contra el estado civil;168;;;;;,42931366;;;
+2006;13;Amenazas;136351;;;;;348,43658;;;
+2006;14;Otros delitos contra la libertad;15810;15810;0;0;15810;40,401482;40,401482;0;0
+2006;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);318613;;;;;814,19592;;;
+2006;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);21061;;;;;53,820091;;;
+2006;17;Robos agravados por el resultado de lesiones y/o muertes ;12605;;;;;32,211304;;;
+2006;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1761;;;;;4,5001273;;;
+2006;19;Hurtos;280619;;;;;717,10461;;;
+2006;20;Tentativas de hurto;11422;;;;;29,188219;;;
+2006;21;Otros delitos contra la propiedad;83264;;;;;212,77603;;;
+2006;22;Delitos contra la seguridad pública;5614;;;;;14,346231;;;
+2006;23;Delitos contra el orden público;1457;;;;;3,723274;;;
+2006;24;Delitos contra la seguridad de la nación;25;;;;;,063885964;;;
+2006;25;Delitos contra los poderes públicos y el orden constitucional;184;;;;;,47020069;;;
+2006;26;Delitos contra la administración pública;14740;;;;;37,667164;;;
+2006;27;Delitos contra la fe pública;5039;;;;;12,876855;;;
+2006;28;Ley 23,737 (estupefacientes);24552;;;;;62,741127;;;
+2006;29;Otros delitos previstos en leyes especiales;26042;;;;;66,548729;;;
+2006;30;Contravenciones;145785;;;;;372,54462;;;
+2006;31;Suicidios (consumados);2746;2746;0;0;2746;7,7079339;7,7079339;0;0
+2007;1;Homicidios dolosos;2071;2139;1779;315;45;5,237751;5,4097295;9,1970501;1,5596611
+2007;2;Homicidios dolosos en grado de tentativa;780;827;607;159;61;1,9726924;2,0915596;3,1380606;,78725749
+2007;3;Muertes en accidentes viales;3786;4364;3050;945;369;9,5751457;11,036961;15,767849;4,6789832
+2007;4;Homicidios culposos por otros hechos;681;727;386;184;157;1,7223122;1,8386505;1,9955376;,91104013
+2007;5;Lesiones dolosas;139142;146308;68955;54432;22921;351,90302;370,02652;356,48264;269,50943
+2007;6;Lesiones culposas en Accidentes Viales;97056;111177;62776;30321;18080;245,46362;281,17694;324,53851;150,12852
+2007;7;Lesiones culposas por otros hechos;10355;10920;5563;3382;1975;26,188755;27,617693;28,759523;16,745314
+2007;8;Otros delitos contra las personas;22601;23753;9868;10705;3180;57,160027;60,07354;51,015453;53,003723
+2007;9;Delitos contra el honor;640;650;86;235;329;1,6186194;1,6439103;,44460166;1,1635567
+2007;10;Abusos sexuales con acceso carnal (violaciones);3281;3352;317;2173;862;8,2979536;8,477519;1,6388223;10,759186
+2007;11;Otros delitos contra la integridad sexual;7283;7486;721;4557;2208;18,419382;18,932789;3,7274163;22,563097
+2007;12;Delitos contra el estado civil;90;;;;;,22761835;;;
+2007;13;Amenazas;133472;;;;;337,56308;;;
+2007;14;Otros delitos contra la libertad;25395;25395;0;0;25395;64,226311;64,226311;0;0
+2007;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);331723;;;;;838,95825;;;
+2007;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);21846;;;;;55,250561;;;
+2007;17;Robos agravados por el resultado de lesiones y/o muertes ;12797;;;;;32,364799;;;
+2007;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1315;;;;;3,325757;;;
+2007;19;Hurtos;248510;;;;;628,50482;;;
+2007;20;Tentativas de hurto;16287;;;;;41,191334;;;
+2007;21;Otros delitos contra la propiedad;79509;;;;;201,08563;;;
+2007;22;Delitos contra la seguridad pública;5421;;;;;13,710212;;;
+2007;23;Delitos contra el orden público;1815;;;;;4,5903034;;;
+2007;24;Delitos contra la seguridad de la nación;112;;;;;,28325838;;;
+2007;25;Delitos contra los poderes públicos y el orden constitucional;767;;;;;1,9398142;;;
+2007;26;Delitos contra la administración pública;13258;;;;;33,530712;;;
+2007;27;Delitos contra la fe pública;4249;;;;;10,746116;;;
+2007;28;Ley 23,737 (estupefacientes);23638;;;;;59,782696;;;
+2007;29;Otros delitos previstos en leyes especiales;23066;;;;;58,336056;;;
+2007;30;Contravenciones;133316;;;;;337,16855;;;
+2007;31;Suicidios (consumados);2768;2768;0;0;2768;7,6852694;7,6852694;0;0
+2008;1;Homicidios dolosos;2305;2377;1952;358;67;5,7694583;5,9496756;9,9895992;1,75392
+2008;2;Homicidios dolosos en grado de tentativa;993;1036;702;193;141;2,4854975;2,5931275;3,592571;,94554901
+2008;3;Muertes en accidentes viales;3997;4554;3260;954;340;10,004566;11,398747;16,683449;4,6738539
+2008;4;Homicidios culposos por otros hechos;617;641;427;131;83;1,5443625;1,604435;2,1852248;,64179754
+2008;5;Lesiones dolosas;146338;154360;73586;58955;21819;366,28674;386,36597;376,58536;288,83337
+2008;6;Lesiones culposas en Accidentes Viales;105615;121598;71923;34013;15662;264,35632;304,36206;368,07477;166,63708
+2008;7;Lesiones culposas por otros hechos;9801;10335;4586;2821;2928;24,532085;25,868698;23,469416;13,820693
+2008;8;Otros delitos contra las personas;29335;30411;12389;11426;6596;73,426056;76,119301;63,402225;55,978462
+2008;9;Delitos contra el honor;247;257;47;201;9;,6182456;,6432758;,24052826;,98474276
+2008;10;Abusos sexuales con acceso carnal (violaciones);3368;3494;358;2687;449;8,4301672;8,7455473;1,8321089;13,164198
+2008;11;Otros delitos contra la integridad sexual;6994;7297;713;5070;1514;17,506113;18,264528;3,6488647;24,839033
+2008;12;Delitos contra el estado civil;124;;;;;,31037432;;;
+2008;13;Amenazas;142714;;;;;357,21582;;;
+2008;14;Otros delitos contra la libertad;14914;14916;0;4;14912;37,330021;37,335026;0;,019596871
+2008;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);361716;;;;;905,3819;;;
+2008;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);25116;;;;;62,865818;;;
+2008;17;Robos agravados por el resultado de lesiones y/o muertes ;10048;;;;;25,150331;;;
+2008;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1485;;;;;3,7169828;;;
+2008;19;Hurtos;272825;;;;;682,88605;;;
+2008;20;Tentativas de hurto;11380;;;;;28,484352;;;
+2008;21;Otros delitos contra la propiedad;86661;;;;;216,91411;;;
+2008;22;Delitos contra la seguridad pública;5992;;;;;14,998088;;;
+2008;23;Delitos contra el orden público;2126;;;;;5,3214178;;;
+2008;24;Delitos contra la seguridad de la nación;36;;;;;,09010867;;;
+2008;25;Delitos contra los poderes públicos y el orden constitucional;144;;;;;,36043468;;;
+2008;26;Delitos contra la administración pública;16101;;;;;40,301105;;;
+2008;27;Delitos contra la fe pública;3567;;;;;8,9282675;;;
+2008;28;Ley 23,737 (estupefacientes);30003;;;;;75,098068;;;
+2008;29;Otros delitos previstos en leyes especiales;30986;;;;;77,55854;;;
+2008;30;Contravenciones;115342;;;;;288,70319;;;
+2008;31;Suicidios (consumados);3127;3130;0;4;3126;8,5876913;8,5959301;0;,021402759
+2009;1;Homicidios dolosos;2616;2645;1048;198;1399;6,4803905;6,5522299;5,3091521;,9598403
+2009;2;Homicidios dolosos en grado de tentativa;1232;1258;522;165;571;3,0519271;3,1163344;2,644444;,79986691
+2009;3;Muertes en accidentes viales;3483;3824;2023;568;1233;8,6281347;9,4728642;10,248487;2,7534811
+2009;4;Homicidios culposos por otros hechos;937;990;347;152;208;2,3211491;2,4524415;1,7578967;,7368471
+2009;5;Lesiones dolosas;151408;156621;48801;38760;69060;375,06995;387,98364;247,22511;187,89601
+2009;6;Lesiones culposas en Accidentes Viales;99233;115188;46978;22212;10485;245,82132;285,34528;237,98982;107,67663
+2009;7;Lesiones culposas por otros hechos;17621;18167;2545;1455;10624;43,650978;45,003536;12,892931;7,0533719
+2009;8;Otros delitos contra las personas;29097;29715;11141;12256;6318;72,079483;73,610397;56,440136;59,413143
+2009;9;Delitos contra el honor;340;352;24;105;102;,84225255;,87197912;,12158363;,5090062
+2009;10;Abusos sexuales con acceso carnal (violaciones);4386;4429;238;2130;2061;10,865058;10,971579;1,2057043;10,325555
+2009;11;Otros delitos contra la integridad sexual;7615;7893;561;4323;1628;18,863981;19,552647;2,8420174;20,956512
+2009;12;Delitos contra el estado civil;168;;;;;,41617188;;;
+2009;13;Amenazas;141543;;;;;350,63223;;;
+2009;14;Otros delitos contra la libertad;9576;9593;3;11;8500;23,721796;23,763908;,015197954;,053324461
+2009;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);367975;;;;;911,55261;;;
+2009;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);15340;;;;;38,000454;;;
+2009;17;Robos agravados por el resultado de lesiones y/o muertes ;8200;;;;;20,31315;;;
+2009;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;567;;;;;1,40458;;;
+2009;19;Hurtos;271860;;;;;673,45526;;;
+2009;20;Tentativas de hurto;6519;;;;;16,148954;;;
+2009;21;Otros delitos contra la propiedad;91413;;;;;226,44951;;;
+2009;22;Delitos contra la seguridad pública;21978;;;;;54,444199;;;
+2009;23;Delitos contra el orden público;1404;;;;;3,4780078;;;
+2009;24;Delitos contra la seguridad de la nación;41;;;;;,10156576;;;
+2009;25;Delitos contra los poderes públicos y el orden constitucional;164;;;;;,40626302;;;
+2009;26;Delitos contra la administración pública;23537;;;;;58,306175;;;
+2009;27;Delitos contra la fe pública;4198;;;;;10,399343;;;
+2009;28;Ley 23,737 (estupefacientes);38996;;;;;96,601418;;;
+2009;29;Otros delitos previstos en leyes especiales;29270;;;;;72,508041;;;
+2009;30;Contravenciones;99126;;;;;245,55626;;;
+2009;31;Suicidios (consumados);3069;3087;112;42;1974;8,3368311;8,3857269;,62529135;,22221188
+2010;1;Homicidios dolosos;2345;2383;959;200;1224;5,749176;5,8423395;4,8092585;,95933616
+2010;2;Homicidios dolosos en grado de tentativa;1201;1247;418;197;632;2,9444609;3,0572379;2,0962148;,94494617
+2010;3;Muertes en accidentes viales;3571;3980;2236;617;1127;8,7549286;9,7576637;11,213245;2,959552
+2010;4;Homicidios culposos por otros hechos;706;754;217;51;140;1,730882;1,8485624;1,0882263;,24463072
+2010;5;Lesiones dolosas;148376;154692;47940;38274;68478;363,76962;379,25439;240,41278;183,58817
+2010;6;Lesiones culposas en Accidentes Viales;95876;112648;47192;22918;8329;235,05672;276,17621;236,66165;109,93034
+2010;7;Lesiones culposas por otros hechos;19499;20244;2330;1624;11194;47,805195;49,631695;11,684643;7,7898097
+2010;8;Otros delitos contra las personas;30098;30631;12681;12632;5318;73,790489;75,097237;63,593544;60,591675
+2010;9;Delitos contra el honor;236;244;22;80;34;,5785951;,59820855;,11032709;,38373446
+2010;10;Abusos sexuales con acceso carnal (violaciones);4278;4330;269;2244;1817;10,488262;10,615749;1,3489995;10,763752
+2010;11;Otros delitos contra la integridad sexual;8039;8468;617;4457;1711;19,709009;20,760778;3,0941737;21,378807
+2010;12;Delitos contra el estado civil;119;;;;;,29174924;;;
+2010;13;Amenazas;140877;;;;;345,38452;;;
+2010;14;Otros delitos contra la libertad;10415;10435;0;12;9318;25,534187;25,583221;0;,057560172
+2010;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);372723;;;;;913,79541;;;
+2010;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);15946;;;;;39,094398;;;
+2010;17;Robos agravados por el resultado de lesiones y/o muertes ;6918;;;;;16,960682;;;
+2010;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;509;;;;;1,2479022;;;
+2010;19;Hurtos;266043;;;;;652,25079;;;
+2010;20;Tentativas de hurto;6684;;;;;16,386992;;;
+2010;21;Otros delitos contra la propiedad;91575;;;;;224,51207;;;
+2010;22;Delitos contra la seguridad pública;22044;;;;;54,044708;;;
+2010;23;Delitos contra el orden público;1249;;;;;3,0621412;;;
+2010;24;Delitos contra la seguridad de la nación;33;;;;;,080905251;;;
+2010;25;Delitos contra los poderes públicos y el orden constitucional;157;;;;;,38491285;;;
+2010;26;Delitos contra la administración pública;23866;;;;;58,511658;;;
+2010;27;Delitos contra la fe pública;4446;;;;;10,900144;;;
+2010;28;Ley 23,737 (estupefacientes);39730;;;;;97,405022;;;
+2010;29;Otros delitos previstos en leyes especiales;29502;;;;;72,329292;;;
+2010;30;Contravenciones;97594;;;;;239,26869;;;
+2010;31;Suicidios (consumados);3068;3093;104;33;2000;8,2435637;8,3107376;,57452428;,17263947
+2011;1;Homicidios dolosos;2471;2516;1049;212;1255;5,9886351;6,0976954;5,1980124;1,0056592
+2011;2;Homicidios dolosos en grado de tentativa;1407;1499;536;215;748;3,4099593;3,6329274;2,6559911;1,0198903
+2011;3;Muertes en accidentes viales;3793;4163;2338;641;1184;9,1925907;10,089311;11,585275;3,0406961
+2011;4;Homicidios culposos por otros hechos;938;1026;331;118;167;2,2733061;2,4865801;1,6401736;,55975372
+2011;5;Lesiones dolosas;165148;171561;46447;38763;86351;400,24731;415,78964;230,15451;183,8791
+2011;6;Lesiones culposas en Accidentes Viales;95111;112757;47691;23201;8953;230,50792;273,27417;236,31879;110,05802
+2011;7;Lesiones culposas por otros hechos;24185;25299;3510;2223;12924;58,613976;61,313831;17,392776;10,545191
+2011;8;Otros delitos contra las personas;32740;33239;14912;12369;5958;79,347595;80,556953;73,892052;58,674526
+2011;9;Delitos contra el honor;312;319;34;127;64;,75615299;,77311796;,16847704;,60244679
+2011;10;Abusos sexuales con acceso carnal (violaciones);4224;4299;255;1992;2052;10,237148;10,418916;1,2635778;9,4494019
+2011;11;Otros delitos contra la integridad sexual;8466;9003;640;4545;1830;20,517921;21,819376;3,1713326;21,560007
+2011;12;Delitos contra el estado civil;88;;;;;,21327393;;;
+2011;13;Amenazas;157264;;;;;381,13989;;;
+2011;14;Otros delitos contra la libertad;10910;10928;0;0;9802;26,44112;26,484743;0;0
+2011;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);392641;;;;;951,59192;;;
+2011;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);15779;;;;;38,24147;;;
+2011;17;Robos agravados por el resultado de lesiones y/o muertes ;6475;;;;;15,692598;;;
+2011;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;556;;;;;1,3475034;;;
+2011;19;Hurtos;263701;;;;;639,09711;;;
+2011;20;Tentativas de hurto;6328;;;;;15,336334;;;
+2011;21;Otros delitos contra la propiedad;93217;;;;;225,91768;;;
+2011;22;Delitos contra la seguridad pública;24276;;;;;58,834522;;;
+2011;23;Delitos contra el orden público;1271;;;;;3,0803542;;;
+2011;24;Delitos contra la seguridad de la nación;45;;;;;,10906053;;;
+2011;25;Delitos contra los poderes públicos y el orden constitucional;152;;;;;,36838225;;;
+2011;26;Delitos contra la administración pública;24492;;;;;59,358013;;;
+2011;27;Delitos contra la fe pública;4107;;;;;9,9535913;;;
+2011;28;Ley 23,737 (estupefacientes);39176;;;;;94,945671;;;
+2011;29;Otros delitos previstos en leyes especiales;33725;;;;;81,73481;;;
+2011;30;Contravenciones;91448;;;;;221,63039;;;
+2011;31;Suicidios (consumados);3103;3126;99;24;2097;8,2442122;8,3053198;,54054046;,12420093
+2012;1;Homicidios dolosos;2628;2656;917;160;1579;6,2971339;6,3642268;4,4906096;,75071973
+2012;2;Homicidios dolosos en grado de tentativa;1496;1561;586;219;749;3,5846698;3,7404208;2,8696806;1,0275477
+2012;3;Muertes en accidentes viales;3502;4076;2172;638;1036;8,391386;9,7667875;10,636427;2,993495
+2012;4;Homicidios culposos por otros hechos;1111;1191;326;179;187;2,6621447;2,8538382;1,5964435;,83986771
+2012;5;Lesiones dolosas;165530;171662;44779;37883;89000;396,63797;411,3313;219,28571;177,74698
+2012;6;Lesiones culposas en Accidentes Viales;89736;106256;42205;19689;8662;215,02269;254,60741;206,68066;92,38076
+2012;7;Lesiones culposas por otros hechos;26360;27664;3917;2248;13064;63,163033;66,287636;19,181807;10,547612
+2012;8;Otros delitos contra las personas;35970;30792;11032;11206;8051;86,190224;73,78286;54,024429;52,578533
+2012;9;Delitos contra el honor;442;433;43;136;69;1,0591071;1,0375415;,21057384;,63811177
+2012;10;Abusos sexuales con acceso carnal (violaciones);4314;4430;241;1944;2214;10,337076;10,615032;1,1801928;9,1212454
+2012;11;Otros delitos contra la integridad sexual;8506;8873;585;4170;1849;20,381819;21,261213;2,8647835;19,565634
+2012;12;Delitos contra el estado civil;96;;;;;,23003229;;;
+2012;13;Amenazas;171952;;;;;412,02618;;;
+2012;14;Otros delitos contra la libertad;10616;10597;0;0;9146;25,437738;25,39221;0;0
+2012;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);419171;;;;;1004,4048;;;
+2012;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);17029;;;;;40,804375;;;
+2012;17;Robos agravados por el resultado de lesiones y/o muertes ;6616;;;;;15,853059;;;
+2012;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;738;;;;;1,7683733;;;
+2012;19;Hurtos;273490;;;;;655,32843;;;
+2012;20;Tentativas de hurto;6577;;;;;15,759608;;;
+2012;21;Otros delitos contra la propiedad;95477;;;;;228,7791;;;
+2012;22;Delitos contra la seguridad pública;25392;;;;;60,84354;;;
+2012;23;Delitos contra el orden público;5001;;;;;11,983245;;;
+2012;24;Delitos contra la seguridad de la nación;442;;;;;1,0591071;;;
+2012;25;Delitos contra los poderes públicos y el orden constitucional;119;;;;;,28514421;;;
+2012;26;Delitos contra la administración pública;27595;;;;;66,122307;;;
+2012;27;Delitos contra la fe pública;7706;;;;;18,464884;;;
+2012;28;Ley 23,737 (estupefacientes);36179;;;;;86,691025;;;
+2012;29;Otros delitos previstos en leyes especiales;29655;;;;;71,058411;;;
+2012;30;Contravenciones;109532;;;;;262,45728;;;
+2012;31;Suicidios (consumados);3018;3067;96;21;1834;7,9291139;8,0578508;,51808602;,10751302
+2013;1;Homicidios dolosos;3125;3173;1070;181;1922;7,4046984;7,5184345;5,1793313;,84014511
+2013;2;Homicidios dolosos en grado de tentativa;1590;1658;636;187;823;3,7675104;3,9286368;3,0785558;,8679952
+2013;3;Muertes en accidentes viales;3957;4633;2398;724;1086;9,3761253;10,977909;11,607511;3,3605804
+2013;4;Homicidios culposos por otros hechos;920;1009;167;78;193;2,1799431;2,3908291;,80836296;,36205149
+2013;5;Lesiones dolosas;161403;167288;42771;46508;78009;382,44498;396,3895;207,03288;215,87552
+2013;6;Lesiones culposas en Accidentes Viales;85777;102165;39930;19974;5184;203,2489;242,08032;193,28104;92,713028
+2013;7;Lesiones culposas por otros hechos;28235;29929;3824;2259;13252;66,902931;70,91687;18,510059;10,485568
+2013;8;Otros delitos contra las personas;40909;38746;5086;3566;8954;96,934013;91,808777;24,618767;16,55225
+2013;9;Delitos contra el honor;602;609;54;147;69;1,4264411;1,4430276;,26138681;,68232775
+2013;10;Abusos sexuales con acceso carnal (violaciones);4279;4504;254;2077;1853;10,139105;10,672243;1,2294861;9,6407804
+2013;11;Otros delitos contra la integridad sexual;9551;10208;599;4665;1615;22,631128;24,187891;2,8994575;21,653463
+2013;12;Delitos contra el estado civil;112;;;;;,26538438;;;
+2013;13;Amenazas;181085;;;;;429,08154;;;
+2013;14;Otros delitos contra la libertad;9586;9689;311;351;7769;22,71406;22,958118;1,5053945;1,6292316
+2013;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);426600;;;;;1010,8302;;;
+2013;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);17786;;;;;42,14399;;;
+2013;17;Robos agravados por el resultado de lesiones y/o muertes ;7206;;;;;17,074642;;;
+2013;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;645;;;;;1,5283297;;;
+2013;19;Hurtos;270312;;;;;640,50519;;;
+2013;20;Tentativas de hurto;6201;;;;;14,693291;;;
+2013;21;Otros delitos contra la propiedad;98100;;;;;232,44829;;;
+2013;22;Delitos contra la seguridad pública;27212;;;;;64,478928;;;
+2013;23;Delitos contra el orden público;6870;;;;;16,278488;;;
+2013;24;Delitos contra la seguridad de la nación;88;;;;;,2085163;;;
+2013;25;Delitos contra los poderes públicos y el orden constitucional;192;;;;;,45494467;;;
+2013;26;Delitos contra la administración pública;30417;;;;;72,073189;;;
+2013;27;Delitos contra la fe pública;7169;;;;;16,986971;;;
+2013;28;Ley 23,737 (estupefacientes);35557;;;;;84,252434;;;
+2013;29;Otros delitos previstos en leyes especiales;34633;;;;;82,063011;;;
+2013;30;Contravenciones;103947;;;;;246,30278;;;
+2013;31;Suicidios (consumados);2998;3060;278;85;1393;7,7889705;7,9500499;1,4828837;,43053085
+2014;1;Homicidios dolosos;3202;3253;2709;375;169;7,504189;7,6237125;12,964078;1,7222931
+2014;2;Homicidios dolosos en grado de tentativa;1776;1925;1402;303;220;4,1622238;4,5114193;6,709353;1,3916129
+2014;3;Muertes en accidentes viales;3627;4635;3131;998;506;8,5002165;10,86256;14,983583;4,5835962
+2014;4;Homicidios culposos por otros hechos;1496;1587;917;398;272;3,5060172;3,7192843;4,3883572;1,8279271
+2014;5;Lesiones dolosas;170921;184038;68857;83791;31390;400,56949;431,31042;329,5192;384,83377
+2014;6;Lesiones culposas en Accidentes Viales;79478;94717;58761;27274;8682;186,26419;221,97823;281,20419;125,26353
+2014;7;Lesiones culposas por otros hechos;27475;29367;11483;5650;12234;64,390259;68,824333;54,952568;25,949217
+2014;8;Otros delitos contra las personas;49548;50901;17544;24601;8756;116,12041;119,2913;83,95784;112,98702
+2014;9;Delitos contra el honor;846;863;334;314;215;1,9826808;2,022522;1,5983765;1,4421334
+2014;10;Abusos sexuales con acceso carnal (violaciones);3748;3943;407;2822;714;8,7837915;9,2407923;1,9477223;12,96083
+2014;11;Otros delitos contra la integridad sexual;9498;10382;1174;6917;2291;22,259459;24,331196;5,6182456;31,76827
+2014;12;Delitos contra el estado civil;212;;;;;,496842;;;
+2014;13;Amenazas;184844;;;;;433,19937;;;
+2014;14;Otros delitos contra la libertad;10530;10588;571;791;9226;24,678049;24,813976;2,732554;3,6328902
+2014;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);448317;;;;;1050,6732;;;
+2014;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);29380;;;;;68,854805;;;
+2014;17;Robos agravados por el resultado de lesiones y/o muertes ;8703;;;;;20,396301;;;
+2014;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1412;;;;;3,3091552;;;
+2014;19;Hurtos;278394;;;;;652,44263;;;
+2014;20;Tentativas de hurto;11438;;;;;26,806032;;;
+2014;21;Otros delitos contra la propiedad;104841;;;;;245,70477;;;
+2014;22;Delitos contra la seguridad pública;7971;;;;;18,68079;;;
+2014;23;Delitos contra el orden público;15185;;;;;35,587479;;;
+2014;24;Delitos contra la seguridad de la nación;93;;;;;,21795428;;;
+2014;25;Delitos contra los poderes públicos y el orden constitucional;585;;;;;1,3710027;;;
+2014;26;Delitos contra la administración pública;28374;;;;;66,497147;;;
+2014;27;Delitos contra la fe pública;6820;;;;;15,983314;;;
+2014;28;Ley 23,737 (estupefacientes);30796;;;;;72,173332;;;
+2014;29;Otros delitos previstos en leyes especiales;35104;;;;;82,269539;;;
+2014;30;Contravenciones;110581;;;;;259,15701;;;
+2014;31;Suicidios (consumados);3242;3296;1051;315;1930;8,3290081;8,4677401;5,5408297;1,5784787
+2015;1;Homicidios dolosos;2761;2846;2337;377;132;6,4012847;6,5983543;11,0594;1,7135881
+2015;2;Homicidios dolosos en grado de tentativa;1597;1724;1158;282;284;3,7025902;3,9970355;5,4800105;1,281782
+2015;3;Muertes en accidentes viales;3641;4330;2753;853;724;8,441535;10,038959;13,028039;3,8771634
+2015;4;Homicidios culposos por otros hechos;967;1081;577;224;280;2,2419567;2,5062618;2,7305408;1,0181531
+2015;5;Lesiones dolosas;171324;179769;61327;77391;41051;397,20889;416,78833;290,21814;351,76736
+2015;6;Lesiones culposas en Accidentes Viales;84033;97260;56832;28065;12363;194,82767;225,494;268,94644;127,56459
+2015;7;Lesiones culposas por otros hechos;24807;25887;9012;5020;11855;57,514187;60,018131;42,647545;22,817539
+2015;8;Otros delitos contra las personas;44803;45812;15645;20753;9414;103,87424;106,21357;74,036934;94,329163
+2015;9;Delitos contra el honor;413;431;140;182;109;,9575265;,99925888;,66252285;,82724941
+2015;10;Abusos sexuales con acceso carnal (violaciones);3418;3666;397;2571;698;7,9245172;8,4994965;1,8787255;11,686034
+2015;11;Otros delitos contra la integridad sexual;12313;13236;1457;8450;3329;28,547274;30,687218;6,8949699;38,408009
+2015;12;Delitos contra el estado civil;144;;;;;,33385912;;;
+2015;13;Amenazas;187094;;;;;433,77109;;;
+2015;14;Otros delitos contra la libertad;10604;10663;1310;1596;7757;24,585014;24,721804;6,1993213;7,2543411
+2015;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);419305;;;;;972,14441;;;
+2015;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);28406;;;;;65,858345;;;
+2015;17;Robos agravados por el resultado de lesiones y/o muertes ;8175;;;;;18,953461;;;
+2015;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1054;;;;;2,4436634;;;
+2015;19;Hurtos;260471;;;;;603,89319;;;
+2015;20;Tentativas de hurto;9472;;;;;21,96051;;;
+2015;21;Otros delitos contra la propiedad;104360;;;;;241,95512;;;
+2015;22;Delitos contra la seguridad pública;8028;;;;;18,612646;;;
+2015;23;Delitos contra el orden público;12187;;;;;28,255146;;;
+2015;24;Delitos contra la seguridad de la nación;230;;;;;,53324717;;;
+2015;25;Delitos contra los poderes públicos y el orden constitucional;389;;;;;,9018833;;;
+2015;26;Delitos contra la administración pública;32791;;;;;76,024818;;;
+2015;27;Delitos contra la fe pública;6766;;;;;15,686742;;;
+2015;28;Ley 23,737 (estupefacientes);31447;;;;;72,908806;;;
+2015;29;Otros delitos previstos en leyes especiales;35282;;;;;81,800117;;;
+2015;30;Contravenciones;93633;;;;;217,08493;;;
+2015;31;Suicidios (consumados);2915;2953;1189;304;1460;7,4046359;7,501163;6,1945028;1,5069803
+2016;1;Homicidios dolosos;2607;2628;2156;347;125;5,980679;6,0288548;10,091521;1,5612417
+2016;2;Homicidios dolosos en grado de tentativa;1659;1777;1334;298;145;3,8058867;4,0765886;6,2440119;1,3407782
+2016;3;Muertes en accidentes viales;3919;4302;3087;895;320;8,9905186;9,869153;14,449224;4,026834
+2016;4;Homicidios culposos por otros hechos;582;599;294;129;176;1,3351574;1,3741568;1,3761165;,58040398
+2016;5;Lesiones dolosas;141311;147343;59695;62689;24959;324,17941;338,01733;279,41251;282,05383
+2016;6;Lesiones culposas en Accidentes Viales;94016;106556;64255;31828;10473;215,68068;244,4485;300,75635;143,20232
+2016;7;Lesiones culposas por otros hechos;15483;15926;3890;2755;9281;35,519314;36,535595;18,2078;12,39545
+2016;8;Otros delitos contra las personas;54877;55836;17664;28753;9419;125,89249;128,09251;82,679329;129,3671
+2016;9;Delitos contra el honor;466;473;95;246;132;1,0690435;1,0851021;,44466349;1,1068169
+2016;10;Abusos sexuales con acceso carnal (violaciones);3677;3787;383;2791;613;8,4353495;8,6876993;1,792696;12,557423
+2016;11;Otros delitos contra la integridad sexual;8981;9326;927;5925;2474;20,603176;21,394634;4,3389797;26,658091
+2016;12;Delitos contra el estado civil;100;;;;;,22940847;;;
+2016;13;Amenazas;168109;;;;;385,65631;;;
+2016;14;Otros delitos contra la libertad;12260;12447;2244;1988;8215;28,125479;28,554474;10,50342;8,944521
+2016;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);420589;;;;;964,86682;;;
+2016;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);30095;;;;;69,040482;;;
+2016;17;Robos agravados por el resultado de lesiones y/o muertes ;9254;;;;;21,22946;;;
+2016;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;992;;;;;2,275732;;;
+2016;19;Hurtos;265889;;;;;609,97192;;;
+2016;20;Tentativas de hurto;10333;;;;;23,704779;;;
+2016;21;Otros delitos contra la propiedad;101189;;;;;232,13614;;;
+2016;22;Delitos contra la seguridad pública;15711;;;;;36,042366;;;
+2016;23;Delitos contra el orden público;9160;;;;;21,013817;;;
+2016;24;Delitos contra la seguridad de la nación;80;;;;;,18352678;;;
+2016;25;Delitos contra los poderes públicos y el orden constitucional;421;;;;;,9658097;;;
+2016;26;Delitos contra la administración pública;37305;;;;;85,580833;;;
+2016;27;Delitos contra la fe pública;6972;;;;;15,994359;;;
+2016;28;Ley 23,737 (estupefacientes);35256;;;;;80,880257;;;
+2016;29;Otros delitos previstos en leyes especiales;34504;;;;;79,155098;;;
+2016;29_1;Ley de residuos peligrosos;0;;;;;0;;;
+2016;29_2;Ley de fauna;7;;;;;,016058594;;;
+2016;29_3;Delitos migratorios;2;;;;;,0045881695;;;
+2016;29_4;Obstrucción del código aduanero;25;;;;;,057352118;;;
+2016;29_5;Contrabando simple;72;;;;;,16517411;;;
+2016;29_6;Contrabando agravado;2;;;;;,0045881695;;;
+2016;29_7;Contrabando de elementos nucleares agresivos químicos armas y municiones;0;;;;;0;;;
+2016;29_8;Otros delitos previstos en leyes especiales n,c,p;1256;;;;;2,8813705;;;
+2016;30;Contravenciones;102938;;;;;236,1485;;;
+2016;31;Suicidios (consumados);3002;2897;1426;367;1104;7,5365291;7,2729263;7,3387475;1,798883
+2016;32;Delitos contra el orden económico y financiero;132;;;;;,30281919;;;
+2017;1;Homicidios dolosos;2224;2313;1908;405;0;5,0494032;5,2514701;8,835124;1,8040742
+2017;2;Homicidios dolosos en grado de tentativa;1588;1769;1274;326;169;3,6054189;4,0163641;5,8993435;1,4521683
+2017;3;Muertes en accidentes viales;4193;4730;3671;1039;20;9,5198498;10,739063;16,998816;4,6282296
+2017;4;Homicidios culposos por otros hechos;593;629;281;109;239;1,3463562;1,428091;1,3011895;,48554096
+2017;5;Lesiones dolosas;142128;159807;65401;71160;23246;322,68954;362,82822;302,84378;316,98251
+2017;6;Lesiones culposas en Accidentes Viales;97709;112817;70743;35175;6899;221,83998;256,14142;327,58026;156,68718
+2017;7;Lesiones culposas por otros hechos;17869;18273;3592;3086;11595;40,570045;41,487293;16,632999;13,746599
+2017;8;Otros delitos contra las personas;52764;53617;16136;29391;8090;119,79618;121,73284;74,718842;130,92233
+2017;9;Delitos contra el honor;449;452;75;159;218;1,0194163;1,0262276;,3472926;,70826614
+2017;10;Abusos sexuales con acceso carnal (violaciones);3755;3919;385;2875;659;8,5254087;8,8977566;1,7827686;12,8067
+2017;11;Otros delitos contra la integridad sexual;11038;11634;1170;7536;2928;25,060841;26,414009;5,4177647;33,569141
+2017;12;Delitos contra el estado civil;79;;;;;,17936279;;;
+2017;13;Amenazas;178614;;;;;405,52789;;;
+2017;14;Otros delitos contra la libertad;11635;12453;3810;3985;4658;26,416279;28,273478;17,642464;17,7512
+2017;14_1;Trata de personas simple;173;329;74;186;69;,39278179;,74696654;,34266204;,82853776
+2017;14_2;Trata de personas agravado;17;26;7;8;11;,038597055;,05903079;,032413974;,035636034
+2017;14_3;Otros delitos contra la libertad n,c,p;11445;12098;3729;3791;4578;25,9849;27,467482;17,267387;16,887026
+2017;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);393854;;;;;894,21204;;;
+2017;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);29590;;;;;67,18158;;;
+2017;17;Robos agravados por el resultado de lesiones y/o muertes ;9576;;;;;21,741493;;;
+2017;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1209;;;;;2,7449317;;;
+2017;19;Hurtos;253050;;;;;574,5285;;;
+2017;20;Tentativas de hurto;10457;;;;;23,74173;;;
+2017;21;Otros delitos contra la propiedad;104147;;;;;236,45691;;;
+2017;22;Delitos contra la seguridad pública;29117;;;;;66,107674;;;
+2017;22_1;Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos;123;;;;;,27926105;;;
+2017;22_2;Tenencia ilegal de armas de fuego;3244;;;;;7,3652263;;;
+2017;22_3;Portación ilegal de armas de fuego;1693;;;;;3,8438127;;;
+2017;22_4;Acopio y fabricación ilegal de armas piezas y municiones;73;;;;;,1657403;;;
+2017;22_5;Entrega y comercialización ilegal de armas de fuego;3;;;;;,0068112449;;;
+2017;22_6;Omisión adulteración y supresión de marcaje;85;;;;;,19298528;;;
+2017;22_7;Otros delitos contra la seguridad pública;23896;;;;;54,253838;;;
+2017;23;Delitos contra el orden público;9109;;;;;20,68121;;;
+2017;24;Delitos contra la seguridad de la nación;45;;;;;,10216867;;;
+2017;25;Delitos contra los poderes públicos y el orden constitucional;628;;;;;1,4258206;;;
+2017;26;Delitos contra la administración pública;44112;;;;;100,15255;;;
+2017;27;Delitos contra la fe pública;9493;;;;;21,553049;;;
+2017;28;Ley 23,737 (estupefacientes);47358;;;;;107,52232;;;
+2017;28_1;Siembra y producción de estupefacientes;273;;;;;,61982328;;;
+2017;28_10;Otros delitos previstos en la Ley 23,737;11271;;;;;25,589848;;;
+2017;28_2;Comercialización y entrega de estupefacientes;4513;;;;;10,246383;;;
+2017;28_3;Tenencia o entrega atenuada de estupefacientes;263;;;;;,59711915;;;
+2017;28_4;Desvío de Importación de estupefacientes;45;;;;;,10216867;;;
+2017;28_5;Organización y financiación de estupefacientes;97;;;;;,22023025;;;
+2017;28_6;Tenencia simple de estupefacientes;7965;;;;;18,083855;;;
+2017;28_7;Tenencia simple atenuada para uso personal de estupefacientes;21530;;;;;48,882034;;;
+2017;28_8;Confabulación de estupefacientes;86;;;;;,1952557;;;
+2017;28_9;Contrabando de estupefacientes;1315;;;;;2,9855957;;;
+2017;29;Otros delitos previstos en leyes especiales;38945;;;;;88,42131;;;
+2017;29_1;Ley de residuos peligrosos;53;;;;;,120332;;;
+2017;29_2;Ley de fauna;756;;;;;1,7164338;;;
+2017;29_3;Delitos migratorios;218;;;;;,49495047;;;
+2017;29_4;Obstrucción del código aduanero;482;;;;;1,0943401;;;
+2017;29_5;Contrabando simple;6825;;;;;15,495583;;;
+2017;29_6;Contrabando agravado;300;;;;;,68112451;;;
+2017;29_7;Contrabando de elementos nucleares agresivos químicos armas y municiones;4;;;;;,0090816598;;;
+2017;29_8;Otros delitos previstos en leyes especiales n,c,p;30307;;;;;68,809471;;;
+2017;30;Contravenciones;161897;;;;;367,57336;;;
+2017;31;Suicidios (consumados);3299;3304;2567;723;14;8,186924;8,1993322;13,052469;3,5047429
+2017;32;Delitos contra el orden económico y financiero;771;;;;;1,75049;;;
+2018;1;Homicidios dolosos;2282;2384;1988;396;0;5,1287236;5,3579655;9,1090822;1,746792
+2018;2;Homicidios dolosos en grado de tentativa;1512;1648;1217;315;116;3,3981726;3,7038283;5,5763345;1,3894936
+2018;3;Muertes en accidentes viales;4294;4803;3764;1022;17;9,650631;10,794592;17,246773;4,5081348
+2018;4;Homicidios culposos por otros hechos;536;563;266;113;184;1,2046432;1,2653248;1,2188208;,49845326
+2018;5;Lesiones dolosas;136855;143189;58196;61432;23561;307,57733;321,81281;266,65601;270,98212
+2018;6;Lesiones culposas en Accidentes Viales;95082;111098;69688;34679;6731;213,69382;249,68927;319,31274;152,97221
+2018;7;Lesiones culposas por otros hechos;17464;17751;3185;2946;11620;39,249794;39,894817;14,593776;12,995073
+2018;8;Otros delitos contra las personas;59323;61024;20000;35970;5054;133,32658;137,14954;91,640663;158,66693
+2018;9;Delitos contra el honor;534;542;192;281;69;1,2001482;1,2181281;,87975037;1,2395165
+2018;10;Abusos sexuales con acceso carnal (violaciones);4199;4277;399;3367;511;9,4371214;9,6124239;1,8282313;14,852142
+2018;11;Otros delitos contra la integridad sexual;12869;13290;1392;8371;3527;28,922674;29,868858;6,3781905;36,92524
+2018;12;Delitos contra el estado civil;178;;;;;,40004942;;;
+2018;13;Amenazas;176670;;;;;397,0603;;;
+2018;14;Otros delitos contra la libertad;11381;12103;3749;4793;3561;25,578442;27,201113;17,178043;21,142357
+2018;14_1;Trata de personas simple;172;221;69;108;44;,38656461;,49669057;,31616029;,47639778
+2018;14_2;Trata de personas agravado;23;30;4;10;16;,051691778;,067424059;,018328134;,044110905
+2018;14_3;Otros delitos contra la libertad n,c,p;11186;11852;3676;4675;3501;25,140184;26,636999;16,843555;20,621849
+2018;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);415867;;;;;934,64807;;;
+2018;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);29626;;;;;66,583504;;;
+2018;17;Robos agravados por el resultado de lesiones y/o muertes ;8848;;;;;19,885603;;;
+2018;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1337;;;;;3,0048656;;;
+2018;19;Hurtos;277020;;;;;622,59375;;;
+2018;20;Tentativas de hurto;12112;;;;;27,22134;;;
+2018;21;Otros delitos contra la propiedad;109738;;;;;246,63272;;;
+2018;22;Delitos contra la seguridad pública;31157;;;;;70,024384;;;
+2018;22_1;Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos;146;;;;;,32813042;;;
+2018;22_2;Tenencia ilegal de armas de fuego;3161;;;;;7,1042485;;;
+2018;22_3;Portación ilegal de armas de fuego;1873;;;;;4,2095089;;;
+2018;22_4;Acopio y fabricación ilegal de armas piezas y municiones;46;;;;;,10338356;;;
+2018;22_5;Entrega y comercialización ilegal de armas de fuego;4;;;;;,0089898752;;;
+2018;22_6;Omisión adulteración y supresión de marcaje;178;;;;;,40004942;;;
+2018;22_7;Otros delitos contra la seguridad pública;25749;;;;;57,870071;;;
+2018;23;Delitos contra el orden público;7264;;;;;16,325613;;;
+2018;24;Delitos contra la seguridad de la nación;86;;;;;,19328231;;;
+2018;25;Delitos contra los poderes públicos y el orden constitucional;930;;;;;2,0901458;;;
+2018;26;Delitos contra la administración pública;41895;;;;;94,1577;;;
+2018;27;Delitos contra la fe pública;8904;;;;;20,011461;;;
+2018;28;Ley 23,737 (estupefacientes);61502;;;;;138,22382;;;
+2018;28_1;Siembra y producción de estupefacientes;222;;;;;,49893805;;;
+2018;28_10;Otros delitos previstos en la Ley 23,737;16664;;;;;37,451817;;;
+2018;28_2;Comercialización y entrega de estupefacientes;5958;;;;;13,390418;;;
+2018;28_3;Tenencia o entrega atenuada de estupefacientes;645;;;;;1,4496173;;;
+2018;28_4;Desvío de Importación de estupefacientes;20;;;;;,044949375;;;
+2018;28_5;Organización y financiación de estupefacientes;173;;;;;,38881209;;;
+2018;28_6;Tenencia simple de estupefacientes;8110;;;;;18,226971;;;
+2018;28_7;Tenencia simple atenuada para uso personal de estupefacientes;28688;;;;;64,47538;;;
+2018;28_8;Confabulación de estupefacientes;123;;;;;,27643865;;;
+2018;28_9;Contrabando de estupefacientes;899;;;;;2,0204744;;;
+2018;29;Otros delitos previstos en leyes especiales;40065;;;;;90,04483;;;
+2018;29_1;Ley de residuos peligrosos;51;;;;;,1146209;;;
+2018;29_2;Ley de fauna;787;;;;;1,7687578;;;
+2018;29_3;Delitos migratorios;604;;;;;1,3574711;;;
+2018;29_4;Obstrucción del código aduanero;332;;;;;,74615961;;;
+2018;29_5;Contrabando simple;5295;;;;;11,900347;;;
+2018;29_6;Contrabando agravado;170;;;;;,38206968;;;
+2018;29_7;Contrabando de elementos nucleares agresivos químicos armas y municiones;6;;;;;,013484812;;;
+2018;29_8;Otros delitos previstos en leyes especiales n,c,p;32820;;;;;73,761925;;;
+2018;30;Contravenciones;178813;;;;;401,87662;;;
+2018;31;Suicidios (consumados);3902;3903;3122;780;1;9,5739861;9,5764399;15,687711;3,7400484
+2018;32;Delitos contra el orden económico y financiero;239;;;;;,53714502;;;
+2019;1;Homicidios dolosos;2240;2309;1897;408;4;4,9845667;5,1381092;8,6030455;1,7825639
+2019;2;Homicidios dolosos en grado de tentativa;1584;1736;1259;345;132;3,5248005;3,863039;5,7096648;1,507315
+2019;3;Muertes en accidentes viales;3671;4189;3285;897;7;8,1689034;9,3215847;14,897735;3,9190192
+2019;4;Homicidios culposos por otros hechos;434;486;270;112;104;,96575975;1,0814729;1,2244713;,48933128
+2019;5;Lesiones dolosas;145150;154182;61985;68282;23915;322,99545;343,09393;281,10687;298,32605
+2019;6;Lesiones culposas en Accidentes Viales;92935;107274;67009;34783;5482;206,80388;238,71178;303,89111;151,96794
+2019;7;Lesiones culposas por otros hechos;15756;16099;2288;2418;11393;35,061085;35,824348;10,376261;10,564313
+2019;8;Otros delitos contra las personas;53606;55222;18729;30804;5689;119,28691;122,88292;84,9375;134,58357
+2019;9;Delitos contra el honor;699;722;255;426;41;1,5554518;1,6066326;1,1564451;1,8612064
+2019;10;Abusos sexuales con acceso carnal (violaciones);5543;5626;600;4314;712;12,334577;12,519273;2,7210474;18,847992
+2019;11;Otros delitos contra la integridad sexual;16478;17181;1782;11126;4273;36,667717;38,232071;8,0815105;48,609818
+2019;12;Delitos contra el estado civil;121;;;;;,26925561;;;
+2019;13;Amenazas;185689;;;;;413,20499;;;
+2019;14;Otros delitos contra la libertad;12719;13628;4520;4992;4116;28,302992;30,325747;20,498558;21,810194
+2019;14_1;Trata de personas simple;129;177;26;77;74;,28705764;,39386976;,11791205;,33641526
+2019;14_2;Trata de personas agravado;18;24;0;15;9;,040054552;,053406071;0;,065535441
+2019;14_3;Otros delitos contra la libertad n,c,p;12572;13427;4494;4900;4033;27,97588;29,878471;20,380646;21,408243
+2019;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);473682;;;;;1054,0623;;;
+2019;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);29627;;;;;65,927567;;;
+2019;17;Robos agravados por el resultado de lesiones y/o muertes ;6960;;;;;15,487761;;;
+2019;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1423;;;;;3,1665349;;;
+2019;19;Hurtos;334423;;;;;744,17578;;;
+2019;20;Tentativas de hurto;14007;;;;;31,169117;;;
+2019;21;Otros delitos contra la propiedad;125752;;;;;279,83002;;;
+2019;22;Delitos contra la seguridad pública;33494;;;;;74,532623;;;
+2019;22_1;Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos;116;;;;;,25812933;;;
+2019;22_2;Tenencia ilegal de armas de fuego;3056;;;;;6,8003731;;;
+2019;22_3;Portación ilegal de armas de fuego;1739;;;;;3,8697147;;;
+2019;22_4;Acopio y fabricación ilegal de armas piezas y municiones;63;;;;;,14019093;;;
+2019;22_5;Entrega y comercialización ilegal de armas de fuego;6;;;;;,013351518;;;
+2019;22_6;Omisión adulteración y supresión de marcaje;130;;;;;,28928289;;;
+2019;22_7;Otros delitos contra la seguridad pública;28384;;;;;63,161579;;;
+2019;23;Delitos contra el orden público;5376;;;;;11,962959;;;
+2019;24;Delitos contra la seguridad de la nación;116;;;;;,25812933;;;
+2019;25;Delitos contra los poderes públicos y el orden constitucional;1321;;;;;2,9395592;;;
+2019;26;Delitos contra la administración pública;42229;;;;;93,970207;;;
+2019;27;Delitos contra la fe pública;10918;;;;;24,295311;;;
+2019;28;Ley 23,737 (estupefacientes);99777;;;;;222,02907;;;
+2019;28_1;Siembra y producción de estupefacientes;848;;;;;1,8870145;;;
+2019;28_10;Otros delitos previstos en la Ley 23,737;22766;;;;;50,660107;;;
+2019;28_2;Comercialización y entrega de estupefacientes;6634;;;;;14,762328;;;
+2019;28_3;Tenencia o entrega atenuada de estupefacientes;1298;;;;;2,8883784;;;
+2019;28_4;Desvío de Importación de estupefacientes;1475;;;;;3,282248;;;
+2019;28_5;Organización y financiación de estupefacientes;208;;;;;,4628526;;;
+2019;28_6;Tenencia simple de estupefacientes;12257;;;;;27,274925;;;
+2019;28_7;Tenencia simple atenuada para uso personal de estupefacientes;53624;;;;;119,32697;;;
+2019;28_8;Confabulación de estupefacientes;107;;;;;,23810206;;;
+2019;28_9;Contrabando de estupefacientes;560;;;;;1,2461417;;;
+2019;29;Otros delitos previstos en leyes especiales;72615;;;;;161,58675;;;
+2019;29_1;Ley de residuos peligrosos;95;;;;;,21139903;;;
+2019;29_2;Ley de fauna;1621;;;;;3,6071351;;;
+2019;29_3;Delitos migratorios;3739;;;;;8,3202209;;;
+2019;29_4;Obstrucción del código aduanero;368;;;;;,81889307;;;
+2019;29_5;Contrabando simple;25805;;;;;57,422653;;;
+2019;29_6;Contrabando agravado;224;;;;;,49845666;;;
+2019;29_7;Contrabando de elementos nucleares agresivos químicos armas y municiones;20;;;;;,04450506;;;
+2019;29_8;Otros delitos previstos en leyes especiales n,c,p;40743;;;;;90,663483;;;
+2019;30;Contravenciones;148812;;;;;331,14435;;;
+2019;31;Suicidios (consumados);3647;3647;2893;721;33;8,849246;8,849246;14,369409;3,4203846
+2019;32;Delitos contra el orden económico y financiero;353;;;;;,7855143;;;
+2020;1;Homicidios dolosos;2349;2418;2044;372;2;5,1766582;5,3287187;9,1769762;1,6101365
+2020;2;Homicidios dolosos en grado de tentativa;1548;1703;1261;292;150;3,4114377;3,7530222;5,6615295;1,2638706
+2020;3;Muertes en accidentes viales;2746;2983;2416;512;55;6,0515556;6,5738492;10,84715;2,2161019
+2020;4;Homicidios culposos por otros hechos;491;530;286;141;103;1,0820516;1,1679987;1,2840583;,61029369
+2020;5;Lesiones dolosas;136122;144740;55850;68792;20098;299,98172;318,97385;250,75055;297,75406
+2020;6;Lesiones culposas en Accidentes Viales;62332;72617;48115;21749;2753;137,36546;160,03125;216,0226;94,136719
+2020;7;Lesiones culposas por otros hechos;10399;10557;1758;1514;7285;22,917015;23,265211;7,8929176;6,5530825
+2020;8;Otros delitos contra las personas;50064;51444;17394;28984;5066;110,3296;113,3708;78,094093;125,45214
+2020;9;Delitos contra el honor;768;782;330;394;58;1,6924962;1,723349;1,4816058;1,7053597
+2020;10;Abusos sexuales con acceso carnal (violaciones);5707;5796;592;4564;640;12,576921;12,773057;2,6579108;19,754471
+2020;11;Otros delitos contra la integridad sexual;21724;23989;2762;17522;3705;47,874725;52,866264;12,400591;75,840889
+2020;12;Delitos contra el estado civil;57;;;;;,12561496;;;
+2020;13;Amenazas;194482;;;;;428,59381;;;
+2020;14;Otros delitos contra la libertad;12661;13503;4175;5046;4282;27,901947;29,757521;18,744556;21,840723
+2020;14_1;Trata de personas simple;185;271;62;105;104;,40769765;,59722197;,27836227;,45447403
+2020;14_2;Trata de personas agravado;126;129;6;5;118;,27767515;,28428647;,026938286;,02164162
+2020;14_3;Otros delitos contra la libertad n,c,p;12350;13103;4107;4936;4060;27,216574;28,876013;18,439257;21,364607
+2020;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);337000;;;;;742,6709;;;
+2020;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);25711;;;;;56,66116;;;
+2020;17;Robos agravados por el resultado de lesiones y/o muertes ;4016;;;;;8,8503447;;;
+2020;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1323;;;;;2,9155891;;;
+2020;19;Hurtos;231451;;;;;510,06503;;;
+2020;20;Tentativas de hurto;11559;;;;;25,473391;;;
+2020;21;Otros delitos contra la propiedad;125039;;;;;275,55734;;;
+2020;22;Delitos contra la seguridad pública;101299;;;;;223,23981;;;
+2020;22_1;Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos;75;;;;;,16528283;;;
+2020;22_2;Tenencia ilegal de armas de fuego;2927;;;;;6,450438;;;
+2020;22_3;Portación ilegal de armas de fuego;1650;;;;;3,6362224;;;
+2020;22_4;Acopio y fabricación ilegal de armas piezas y municiones;59;;;;;,1300225;;;
+2020;22_5;Entrega y comercialización ilegal de armas de fuego;5;;;;;,011018855;;;
+2020;22_6;Omisión adulteración y supresión de marcaje;116;;;;;,25563744;;;
+2020;22_7;Otros delitos contra la seguridad pública;96467;;;;;212,59119;;;
+2020;23;Delitos contra el orden público;4007;;;;;8,8305111;;;
+2020;24;Delitos contra la seguridad de la nación;690;;;;;1,5206021;;;
+2020;25;Delitos contra los poderes públicos y el orden constitucional;969;;;;;2,1354542;;;
+2020;26;Delitos contra la administración pública;60452;;;;;133,22237;;;
+2020;27;Delitos contra la fe pública;8975;;;;;19,778847;;;
+2020;28;Ley 23,737 (estupefacientes);58973;;;;;129,963;;;
+2020;28_1;Siembra y producción de estupefacientes;956;;;;;2,1068051;;;
+2020;28_10;Otros delitos previstos en la Ley 23,737;10497;;;;;23,132986;;;
+2020;28_2;Comercialización y entrega de estupefacientes;5023;;;;;11,069542;;;
+2020;28_3;Tenencia o entrega atenuada de estupefacientes;630;;;;;1,3883758;;;
+2020;28_4;Desvío de Importación de estupefacientes;72;;;;;,15867153;;;
+2020;28_5;Organización y financiación de estupefacientes;167;;;;;,36802977;;;
+2020;28_6;Tenencia simple de estupefacientes;9239;;;;;20,360641;;;
+2020;28_7;Tenencia simple atenuada para uso personal de estupefacientes;31939;;;;;70,386246;;;
+2020;28_8;Confabulación de estupefacientes;68;;;;;,14985643;;;
+2020;28_9;Contrabando de estupefacientes;382;;;;;,84184057;;;
+2020;29;Otros delitos previstos en leyes especiales;61454;;;;;135,43056;;;
+2020;29_1;Ley de residuos peligrosos;18;;;;;,039667882;;;
+2020;29_2;Ley de fauna;1170;;;;;2,5784123;;;
+2020;29_3;Delitos migratorios;1899;;;;;4,1849613;;;
+2020;29_4;Obstrucción del código aduanero;190;;;;;,41871652;;;
+2020;29_5;Contrabando simple;18884;;;;;41,616013;;;
+2020;29_6;Contrabando agravado;118;;;;;,26004499;;;
+2020;29_7;Contrabando de elementos nucleares agresivos químicos armas y municiones;6;;;;;,013222626;;;
+2020;29_8;Otros delitos previstos en leyes especiales n,c,p;39169;;;;;86,319511;;;
+2020;30;Contravenciones;119532;;;;;263,42117;;;
+2020;31;Suicidios (consumados);3261;3262;2611;643;8;7,8269434;7,8293433;12,822547;3,0186086
+2020;32;Delitos contra el orden económico y financiero;326;;;;;,71842939;;;
+2021;1;Homicidios dolosos;2021;2094;1786;308;0;4,4118214;4,5711794;7,9403124;1,3209853
+2021;2;Homicidios dolosos en grado de tentativa;1478;1612;1073;327;212;3,2264581;3,5189786;4,7704115;1,4024746
+2021;3;Muertes en accidentes viales;3444;3827;2754;730;343;7,5182147;8,3542995;12,243908;3,1309068
+2021;4;Homicidios culposos por otros hechos;501;534;266;123;145;1,0936776;1,1657163;1,1825997;,52753633
+2021;5;Lesiones dolosas;156815;166111;57664;80586;27861;342,32544;362,61853;256,36627;345,62637
+2021;6;Lesiones culposas en Accidentes Viales;80267;94555;59260;30627;4668;175,222;206,41254;263,46188;131,35655
+2021;7;Lesiones culposas por otros hechos;13533;13861;1837;1629;10395;29,542393;30,258413;8,1670513;6,98664
+2021;8;Otros delitos contra las personas;46566;47618;16560;25532;5526;101,65308;103,94958;73,623497;109,50454
+2021;9;Delitos contra el honor;791;810;255;482;73;1,7267444;1,7682213;1,1336952;2,0672562
+2021;10;Abusos sexuales con acceso carnal (violaciones);6919;7051;642;5709;700;15,104102;15,392257;2,8542445;24,485407
+2021;11;Otros delitos contra la integridad sexual;32105;35647;3781;25857;6009;70,084869;77,817017;16,809811;110,89843
+2021;12;Delitos contra el estado civil;79;;;;;,17245615;;;
+2021;13;Amenazas;218166;;;;;476,25403;;;
+2021;14;Otros delitos contra la libertad;14030;15018;4343;6173;4502;30,627338;32,78413;19,308386;26,475462
+2021;14_1;Trata de personas simple;175;246;51;76;119;,3820231;,53701532;,22673905;,32595742
+2021;14_2;Trata de personas agravado;96;99;11;18;70;,20956697;,21611594;,048904501;,077200443
+2021;14_3;Otros delitos contra la libertad n,c,p;13759;14673;4281;6079;4313;30,035748;32,031002;19,032742;26,072304
+2021;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);371463;;;;;810,89972;;;
+2021;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);25715;;;;;56,135567;;;
+2021;17;Robos agravados por el resultado de lesiones y/o muertes ;5380;;;;;11,744482;;;
+2021;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1480;;;;;3,230824;;;
+2021;19;Hurtos;271723;;;;;593,1684;;;
+2021;20;Tentativas de hurto;11855;;;;;25,879337;;;
+2021;21;Otros delitos contra la propiedad;160733;;;;;350,87842;;;
+2021;22;Delitos contra la seguridad pública;49493;;;;;108,04269;;;
+2021;22_1;Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos;124;;;;;,27069065;;;
+2021;22_2;Tenencia ilegal de armas de fuego;2809;;;;;6,1320167;;;
+2021;22_3;Portación ilegal de armas de fuego;1427;;;;;3,1151257;;;
+2021;22_4;Acopio y fabricación ilegal de armas piezas y municiones;57;;;;;,12443038;;;
+2021;22_5;Entrega y comercialización ilegal de armas de fuego;10;;;;;,021829892;;;
+2021;22_6;Omisión adulteración y supresión de marcaje;105;;;;;,22921386;;;
+2021;22_7;Otros delitos contra la seguridad pública;44961;;;;;98,149376;;;
+2021;23;Delitos contra el orden público;3528;;;;;7,7015858;;;
+2021;24;Delitos contra la seguridad de la nación;112;;;;;,2444948;;;
+2021;25;Delitos contra los poderes públicos y el orden constitucional;700;;;;;1,5280924;;;
+2021;26;Delitos contra la administración pública;49598;;;;;108,2719;;;
+2021;27;Delitos contra la fe pública;10595;;;;;23,128771;;;
+2021;28;Ley 23,737 (estupefacientes);72043;;;;;157,26909;;;
+2021;28_1;Siembra y producción de estupefacientes;1113;;;;;2,429667;;;
+2021;28_10;Otros delitos previstos en la Ley 23,737;10620;;;;;23,183346;;;
+2021;28_2;Comercialización y entrega de estupefacientes;5505;;;;;12,017356;;;
+2021;28_3;Tenencia o entrega atenuada de estupefacientes;880;;;;;1,9210305;;;
+2021;28_4;Desvío de Importación de estupefacientes;10;;;;;,021829892;;;
+2021;28_5;Organización y financiación de estupefacientes;206;;;;;,44969577;;;
+2021;28_6;Tenencia simple de estupefacientes;8393;;;;;18,321829;;;
+2021;28_7;Tenencia simple atenuada para uso personal de estupefacientes;44588;;;;;97,335121;;;
+2021;28_8;Confabulación de estupefacientes;105;;;;;,22921386;;;
+2021;28_9;Contrabando de estupefacientes;623;;;;;1,3600023;;;
+2021;29;Otros delitos previstos en leyes especiales;70877;;;;;154,72372;;;
+2021;29_1;Ley de residuos peligrosos;54;;;;;,11788142;;;
+2021;29_2;Ley de fauna;1649;;;;;3,5997491;;;
+2021;29_3;Delitos migratorios;3970;;;;;8,6664667;;;
+2021;29_4;Obstrucción del código aduanero;261;;;;;,5697602;;;
+2021;29_5;Contrabando simple;17056;;;;;37,233063;;;
+2021;29_6;Contrabando agravado;183;;;;;,39948702;;;
+2021;29_7;Contrabando de elementos nucleares agresivos químicos armas y municiones;7;;;;;,015280925;;;
+2021;29_8;Otros delitos previstos en leyes especiales n,c,p;47697;;;;;104,12203;;;
+2021;30;Contravenciones;88850;;;;;193,95859;;;
+2021;31;Suicidios (consumados);3648;3648;2882;754;12;8,6630392;8,6630392;13,997426;3,5036469
+2021;32;Delitos contra el orden económico y financiero;671;;;;;1,4647857;;;
+2022;1;Homicidios dolosos;1890;1961;1614;347;0;4,0878272;4,2413912;7,1071649;1,4750046
+2022;2;Homicidios dolosos en grado de tentativa;1253;1382;1008;313;61;2,710078;2,9890885;4,4386754;1,3304795
+2022;3;Muertes en accidentes viales;3781;4183;3114;949;120;8,1778173;9,0472918;13,712337;4,033946
+2022;4;Homicidios culposos por otros hechos;564;627;403;181;43;1,2198596;1,3561205;1,7745894;,76938277
+2022;5;Lesiones dolosas;166984;177390;64098;97111;16181;361,16495;383,67178;282,2522;412,79297
+2022;6;Lesiones culposas en Accidentes Viales;89718;104162;62730;34203;7229;194,04851;225,28903;276,22827;145,38783
+2022;7;Lesiones culposas por otros hechos;12693;13081;3051;3148;6882;27,453329;28,292522;13,434919;13,381309
+2022;8;Otros delitos contra las personas;42132;43010;13198;23618;6194;91,126106;93,025108;58,116703;100,39382
+2022;9;Delitos contra el honor;640;652;220;348;84;1,3842378;1,4101923;,96875852;1,4792552
+2022;10;Abusos sexuales con acceso carnal (violaciones);6964;7069;558;5637;874;15,062238;15,289339;2,4571238;23,961384
+2022;11;Otros delitos contra la integridad sexual;32260;36185;3743;27468;4974;69,774239;78,263512;16,482105;116,75915
+2022;12;Delitos contra el estado civil;140;;;;;,30280203;;;
+2022;13;Amenazas;209410;;;;;452,92694;;;
+2022;14;Otros delitos contra la libertad;14225;15247;4659;6947;3641;30,766848;32,977303;20,515663;29,529844
+2022;14_1;Trata de personas simple;328;419;64;122;233;,70942187;,90624321;,28182065;,5185895
+2022;14_2;Trata de personas agravado;82;89;8;7;74;,17735547;,19249557;,035227582;,029755134
+2022;14_3;Otros delitos contra la libertad n,c,p;13815;14739;4587;6818;3334;29,880072;31,878565;20,198614;28,981501
+2022;15;Robos (excluye los agravados por el resultado de lesiones y/o muertes);394525;;;;;853,30688;;;
+2022;16;Tentativas de robo (excluye las agravadas por el res, de lesiones y/o muerte);24663;;;;;53,342903;;;
+2022;17;Robos agravados por el resultado de lesiones y/o muertes ;6329;;;;;13,688814;;;
+2022;18;Tentativas de robo agravado por el resultado de lesiones y/o muertes;1403;;;;;3,0345089;;;
+2022;19;Hurtos;311697;;;;;674,16058;;;
+2022;20;Tentativas de hurto;12404;;;;;26,828259;;;
+2022;21;Otros delitos contra la propiedad;186367;;;;;403,08789;;;
+2022;22;Delitos contra la seguridad pública;33372;;;;;72,179352;;;
+2022;22_1;Fabricación adquisición transferencia y tenencia de explosivos y otros materiales peligrosos;131;;;;;,28333619;;;
+2022;22_2;Tenencia ilegal de armas de fuego;2572;;;;;5,5629058;;;
+2022;22_3;Portación ilegal de armas de fuego;1359;;;;;2,9393425;;;
+2022;22_4;Acopio y fabricación ilegal de armas piezas y municiones;35;;;;;,075700507;;;
+2022;22_5;Entrega y comercialización ilegal de armas de fuego;56;;;;;,12112081;;;
+2022;22_6;Omisión adulteración y supresión de marcaje;162;;;;;,35038519;;;
+2022;22_7;Otros delitos contra la seguridad pública;29057;;;;;62,846561;;;
+2022;23;Delitos contra el orden público;3134;;;;;6,7784395;;;
+2022;24;Delitos contra la seguridad de la nación;55;;;;;,11895794;;;
+2022;25;Delitos contra los poderes públicos y el orden constitucional;311;;;;;,67265308;;;
+2022;26;Delitos contra la administración pública;38751;;;;;83,813438;;;
+2022;27;Delitos contra la fe pública;10861;;;;;23,490948;;;
+2022;28;Ley 23,737 (estupefacientes);76856;;;;;166,22966;;;
+2022;28_1;Siembra y producción de estupefacientes;1016;;;;;2,1974776;;;
+2022;28_10;Otros delitos previstos en la Ley 23,737;8232;;;;;17,804758;;;
+2022;28_2;Comercialización y entrega de estupefacientes;6296;;;;;13,617439;;;
+2022;28_3;Tenencia o entrega atenuada de estupefacientes;1078;;;;;2,3315756;;;
+2022;28_4;Desvío de Importación de estupefacientes;116;;;;;,25089312;;;
+2022;28_5;Organización y financiación de estupefacientes;227;;;;;,49097186;;;
+2022;28_6;Tenencia simple de estupefacientes;10421;;;;;22,539286;;;
+2022;28_7;Tenencia simple atenuada para uso personal de estupefacientes;48504;;;;;104,90792;;;
+2022;28_8;Confabulación de estupefacientes;188;;;;;,40661985;;;
+2022;28_9;Contrabando de estupefacientes;778;;;;;1,6827141;;;
+2022;29;Otros delitos previstos en leyes especiales;64620;;;;;139,76476;;;
+2022;29_1;Ley de residuos peligrosos;326;;;;;,70509613;;;
+2022;29_2;Ley de fauna;1711;;;;;3,7006733;;;
+2022;29_3;Delitos migratorios;3388;;;;;7,3278089;;;
+2022;29_4;Obstrucción del código aduanero;327;;;;;,707259;;;
+2022;29_5;Contrabando simple;15495;;;;;33,513695;;;
+2022;29_6;Contrabando agravado;396;;;;;,85649717;;;
+2022;29_7;Contrabando de elementos nucleares agresivos químicos armas y municiones;120;;;;;,25954458;;;
+2022;29_8;Otros delitos previstos en leyes especiales n,c,p;42857;;;;;92,694191;;;
+2022;30;Contravenciones;74313;;;;;160,72948;;;
+2022;31;Suicidios (consumados);3955;3955;3060;858;37;9,2947178;9,2947178;14,701747;3,9471509
+2022;32;Delitos contra el orden económico y financiero;360;;;;;,77863377;;;
